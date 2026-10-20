@@ -1,7 +1,19 @@
-# 实验报告01：Python基础与数据处理入门
+# python-work（Python 课程作业）
 
 - 学号：20244080115
 - 姓名：胡勇彦
+
+## 作业目录
+
+| 目录/文件 | 内容 |
+| --- | --- |
+| `HW01/` | HW01：Data Types, Functions and Conditionals（数据类型、函数与条件语句） |
+| `20244080115_胡勇彦_exp01.ipynb` 等 | EXP01：Python 基础与数据处理入门（独立 conda 环境 `exp01`，Python 3.12 + Jupyter） |
+
+---
+
+# 实验报告01：Python基础与数据处理入门
+
 - 运行环境：独立 conda 虚拟环境 `exp01`（Python 3.12 + Jupyter）
 
 ## 文件说明
